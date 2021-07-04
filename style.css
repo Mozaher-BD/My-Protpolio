@@ -12,8 +12,16 @@ Section{
 }
 .half-width{
     width: 40%;
-    padding-left: 10%;
+    padding-left: 7%;
 }
 .half-width img{
     width 50%
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, black);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color:white;
+    font-weight:700;
 }
