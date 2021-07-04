@@ -44,10 +44,23 @@ h1{
     margin-right: 5%;
     padding: 40px;
     border-radius: 15px;
-    box-shadow:15px 15px 60px darkgrey;
+    box-shadow:10px 10px 40px darkgrey;
 }
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+#web-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, cyan)
+    border-image-slice: 1;
+}
+#full-stack-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(purple, tomato)
+    border-image-slice: 4;
+}
+footer p{
+    text-align: center;
 }
