@@ -8,7 +8,7 @@ h1{
 .red-orient{
     color: crimson;
 }
-Section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
